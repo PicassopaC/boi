@@ -6,7 +6,7 @@ skip
 #EXTINF:1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/47/Pink_1_rs.png/revision/latest?cb=20150128095900>",[COLOR hotpink]Pink 1 [/COLOR]
 http://93.87.85.69:80/PLTV/88888888/224/3221225872/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9YsCVWk35mSVP61H41NJx3g,,,END&GuardEncType=1
 
-#EXTINF:1,[COLOR pink]Pink 2 [/COLOR]
+#EXTINF:1 tvg-logo="https://totaltv.tv/oec/images/tv_channels/50f15b8ccfed54f24e2a664553d5ca17.png>",[COLOR hotpink]Pink 2 [/COLOR]
 http://93.87.85.72:80/PLTV/88888888/224/3221225882/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9eKoVnYGKbXJ%2B%2FJWt7xcnV8,,,END&GuardEncType=1
 
 
@@ -16,21 +16,21 @@ http://93.87.85.72:80/PLTV/88888888/224/3221225882/index.m3u8?accountinfo=4WGMQd
 #EXTINF:-1,[COLOR green]Sport Channels by PicassopaC [/COLOR]
 skip
 
-#EXTINF:0,Arena 1 
+#EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png>",Arena 1 
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 2
+#EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA2-big.png>",Arena 2
 http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 3
+#EXTINF:0 tvg-logo="http://www.tvarenasport.hr/images/logo-arenaA3-big.png>",Arena 3
 http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 4
+#EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA4-big.png>",Arena 4
 http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Arena 5
+#EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA5-big.png>",Arena 5
 http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:0,Sky Sport 1
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Sky_Sports_1_2010.png/revision/latest/scale-to-width-down/2000?cb=20100803180246>",Sky Sport 1
 http://178.132.4.81/a/guest/live/126.ts?n=1
-#EXTINF:0,Sky Sport 2
+#EXTINF:0 tvg-logo="http://thedantv.co.uk/Channel_Logos/Sky_Sports_2.png>",Sky Sport 2
 http://178.132.4.145/a/guest/live/550.ts?n=1
-#EXTINF:0,Sky Sport 3
+#EXTINF:0 tvg-logo="http://thedantv.co.uk/Channel_Logos/sky_sports_3.png>",Sky Sport 3
 http://185.2.83.104/a/guest/live/552.ts?n=1
 
 #EXTINF:-1,[COLOR green]DE Sky Channels by PicassopaC[/COLOR]
