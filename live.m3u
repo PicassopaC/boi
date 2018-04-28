@@ -8,7 +8,8 @@ http://93.87.85.69:80/PLTV/88888888/224/3221225872/index.m3u8?accountinfo=4WGMQd
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/5mbaTW6.png>",[COLOR hotpink]Pink 2 [/COLOR]
 http://93.87.85.72:80/PLTV/88888888/224/3221225882/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9eKoVnYGKbXJ%2B%2FJWt7xcnV8,,,END&GuardEncType=1
-
+#EXTINF:0 tvg-logo=">",[COLOR hotpink]Pink Reality [/COLOR]
+http://178.132.4.145/a/guest/live/1029.ts?n=1&b=2
 
 
 
@@ -26,6 +27,9 @@ http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zon
 http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA5-big.png>",Arena 5
 http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:0 tvg-logo=">",Sport Klub 1
+http://190.2.138.140/a/guest/live/1639.ts?n=1&b=2
+
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Sky_Sports_1_2010.png/revision/latest/scale-to-width-down/2000?cb=20100803180246>",Sky Sport 1
 http://178.132.4.81/a/guest/live/126.ts?n=1
 #EXTINF:0 tvg-logo="http://thedantv.co.uk/Channel_Logos/Sky_Sports_2.png>",Sky Sport 2
@@ -35,179 +39,36 @@ http://185.2.83.104/a/guest/live/552.ts?n=1
 
 #EXTINF:-1,[COLOR green]DE Sky Channels by PicassopaC[/COLOR]
 skip
+#EXTINF:0 tvg-logo=">",Sky Cinema HD
+http://178.132.4.81/a/guest/live/100.ts?n=1&b=2
+
+#EXTINF:0 tvg-logo=">",Sky Universal Channel HD
+http://194.88.104.239/a/guest/live/564.ts?n=1&b=2
+
+#EXTINF:0 tvg-logo=">",Sky Cinema Action HD
+http://190.2.138.140/a/guest/live/523.ts?n=1&b=2
+
+#EXTINF:0 tvg-logo=">",Sky Cinema Action HD
+http://190.2.138.140/a/guest/live/523.ts?n=1&b=2
 
 
-#EXTINF:0,DE: SKY ACTION HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5393.ts
-#EXTINF:0,DE: SKY ACTION SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5392.ts
-#EXTINF:0,DE: SKY ATLANTIC HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5363.ts
-#EXTINF:0,DE: SKY ATLANTIC SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5368.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5340.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 1 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5339.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 10 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5329.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 2 HD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5338.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 2 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5337.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 3 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5336.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 4 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5335.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 5 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5334.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 6 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5333.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 7 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5332.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 8 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5331.ts
-#EXTINF:0,DE: SKY BUNDESLIGA 9 SD ( LIVE ON MATCH )
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5330.ts
-#EXTINF:0,DE: SKY CINEMA  1 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5397.ts
-#EXTINF:0,DE: SKY CINEMA  1 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5396.ts
-#EXTINF:0,DE: SKY CINEMA 24 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5395.ts
-#EXTINF:0,DE: SKY CINEMA 24 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5394.ts
-#EXTINF:0,DE: SKY CINEMA HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5399.ts
-#EXTINF:0,DE: SKY CINEMA SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5398.ts
-#EXTINF:0,DE: SKY COMEDY HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5376.ts
-#EXTINF:0,DE: SKY COMEDY SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5375.ts
-#EXTINF:0,DE: SKY DISCOVERY CHANNEL HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5355.ts
-#EXTINF:0,DE: SKY DISCOVERY CHANNEL SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5382.ts
-#EXTINF:0,DE: SKY DISNEY CINEMAGIC HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5358.ts
-#EXTINF:0,DE: SKY DISNEY CINEMAGIC SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5381.ts
-#EXTINF:0,DE: SKY DISNEY JUNIOR HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5357.ts
-#EXTINF:0,DE: SKY DISNEY XD HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5356.ts
-#EXTINF:0,DE: SKY DISNEY XD SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5379.ts
-#EXTINF:0,DE: SKY DMAX HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5378.ts
-#EXTINF:0,DE: SKY DMAX SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5377.ts
-#EXTINF:0,DE: SKY EMOTION HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5370.ts
-#EXTINF:0,DE: SKY EMOTION SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5369.ts
-#EXTINF:0,DE: SKY FOX HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5361.ts
-#EXTINF:0,DE: SKY FOX SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5384.ts
-#EXTINF:0,DE: SKY FOX SERIE HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5360.ts
-#EXTINF:0,DE: SKY FOX SERIE SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5383.ts
-#EXTINF:0,DE: SKY HISTORY HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5354.ts
-#EXTINF:0,DE: SKY HITS HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5367.ts
-#EXTINF:0,DE: SKY HITS SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5366.ts
-#EXTINF:0,DE: SKY KRIMI HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5372.ts
-#EXTINF:0,DE: SKY KRIMI SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5371.ts
-#EXTINF:0,DE: SKY MGM SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5373.ts
-#EXTINF:0,DE: SKY NATGEO WILD HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5352.ts
-#EXTINF:0,DE: SKY NATGEO WILD SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5351.ts
-#EXTINF:0,DE: SKY NATIONAL GEOGRAPHIC HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5350.ts
-#EXTINF:0,DE: SKY NATIONAL GEOGRAPHIC SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5349.ts
-#EXTINF:0,DE: SKY NOSTALGIE HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5365.ts
-#EXTINF:0,DE: SKY NOSTALGIE SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5364.ts
-#EXTINF:0,DE: SKY SELECT 1 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5348.ts
-#EXTINF:0,DE: SKY SELECT 2 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5347.ts
-#EXTINF:0,DE: SKY SELECT 3 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5346.ts
-#EXTINF:0,DE: SKY SELECT 4 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5345.ts
-#EXTINF:0,DE: SKY SELECT 5 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5344.ts
-#EXTINF:0,DE: SKY SELECT 6 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5343.ts
-#EXTINF:0,DE: SKY SELECT 7 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5342.ts
-#EXTINF:0,DE: SKY SELECT 8 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5341.ts
-#EXTINF:0,DE: SKY SPORT 1 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5328.ts
-#EXTINF:0,DE: SKY SPORT 1 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5327.ts
-#EXTINF:0,DE: SKY SPORT 10 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5310.ts
-#EXTINF:0,DE: SKY SPORT 10 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5309.ts
-#EXTINF:0,DE: SKY SPORT 11 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5308.ts
-#EXTINF:0,DE: SKY SPORT 11 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5307.ts
-#EXTINF:0,DE: SKY SPORT 2 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5326.ts
-#EXTINF:0,DE: SKY SPORT 2 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5325.ts
-#EXTINF:0,DE: SKY SPORT 3 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5324.ts
-#EXTINF:0,DE: SKY SPORT 3 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5323.ts
-#EXTINF:0,DE: SKY SPORT 4 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5322.ts
-#EXTINF:0,DE: SKY SPORT 4 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5321.ts
-#EXTINF:0,DE: SKY SPORT 5 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5320.ts
-#EXTINF:0,DE: SKY SPORT 5 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5319.ts
-#EXTINF:0,DE: SKY SPORT 6 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5318.ts
-#EXTINF:0,DE: SKY SPORT 6 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5317.ts
-#EXTINF:0,DE: SKY SPORT 7 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5316.ts
-#EXTINF:0,DE: SKY SPORT 7 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5315.ts
-#EXTINF:0,DE: SKY SPORT 8 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5314.ts
-#EXTINF:0,DE: SKY SPORT 8 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5313.ts
-#EXTINF:0,DE: SKY SPORT 9 HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5312.ts
-#EXTINF:0,DE: SKY SPORT 9 SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5311.ts
-#EXTINF:0,DE: SKY SYFY HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5391.ts
-#EXTINF:0,DE: SKY SYFY SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5390.ts
-#EXTINF:0,DE: SKY TNT FILM HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5359.ts
-#EXTINF:0,DE: SKY TNT FILM SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5387.ts
-#EXTINF:0,DE: SKY TNT SERIES HD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5389.ts
-#EXTINF:0,DE: SKY TNT SERIES SD
-http://dani.moppie.info:7444/live/daesadalamauns/GqHyCf3j4i/5388.ts
+
+#EXTINF:-1,[COLOR hotred]Macedonian Channels by PicassopaC[/COLOR]
+
+#EXTINF:0 tvg-logo=">",Kanal 5
+http://178.132.4.81/a/guest/live/949.ts?n=1&b=2
+#EXTINF:0 tvg-logo=">",Sitel HD
+http://178.132.4.145/a/guest/live/981.ts?n=1&b=2
+#EXTINF:0 tvg-logo=">",Alfa
+http://185.2.83.104/a/guest/live/923.ts?n=1&b=2
+#EXTINF:0 tvg-logo=">",Telma
+http://178.132.4.92/a/guest/live/986.ts?n=1&b=2
+
+
+
+
+
+
+
+
+
