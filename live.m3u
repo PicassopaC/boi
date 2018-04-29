@@ -8,16 +8,16 @@ http://93.87.85.69:80/PLTV/88888888/224/3221225872/index.m3u8?accountinfo=4WGMQd
 
 #EXTINF:1 tvg-logo="https://i.imgur.com/5mbaTW6.png>",[COLOR hotpink]Pink 2 [/COLOR]
 http://93.87.85.72:80/PLTV/88888888/224/3221225882/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9eKoVnYGKbXJ%2B%2FJWt7xcnV8,,,END&GuardEncType=1
-#EXTINF:0 tvg-logo=">",[COLOR hotpink]Pink Reality [/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/Q752ZqX.png>",[COLOR hotpink]Pink Reality [/COLOR]
 http://178.132.4.145/a/guest/live/1029.ts?n=1&b=2
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CcX7hem.png>",HBO 
+#EXTINF:0 tvg-logo="https://i.imgur.com/xptwS8S.png>",HBO 
 http://93.87.85.10/PLTV/88888888/224/3221226927/index.m3u8?rrsip=93.87.85.10&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgCOkNbwuE4ye5xJA0ZjrUuQ%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001865%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&amp;GuardEncType=2
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/rE23sWh.png>",HBO[COLOR limegreen]2[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/iaIxYgp.png>",HBO[COLOR limegreen] 2[/COLOR]
 http://93.87.85.10/PLTV/88888888/224/3221226928/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgH4FbIMHT1QicKJah6bwCLc%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001866%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/l6eVxJ9.png>",HBO[COLOR wheat]3[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/dxMfnLA.png>",HBO[COLOR wheat] 3[/COLOR]
 http://93.87.85.10/PLTV/88888888/224/3221226929/index.m3u8?rrsip=93.87.85.10&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgK%2FOsdKtI%2BMnnOsFROer%2BD4%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003195%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&amp;GuardEncType=2
 
 #EXTINF:-1,[COLOR greenyellow]Sport Channels by PicassopaC [/COLOR]
