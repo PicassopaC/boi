@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR cyan]Nicke85 Channels by PicassopaC [/COLOR]
+#EXTINF:-1,[COLOR cyan]Ex-Yu/Nicke85 Channels by PicassopaC [/COLOR]
 skip
 
 #EXTINF:1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/47/Pink_1_rs.png/revision/latest?cb=20150128095900>",[COLOR hotpink]Pink 1 [/COLOR]
@@ -17,7 +17,7 @@ http://178.132.4.145/a/guest/live/1029.ts?n=1&b=2
 #EXTINF:-1,[COLOR green]Sport Channels by PicassopaC [/COLOR]
 skip
 
-#EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png>",Arena 1 
+#EXTINF:0 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1-big.png>",Arena 1 
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:0 tvg-logo="http://www.tvarenasport.com/images/logo-arenaA2-big.png>",Arena 2
 http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
@@ -53,10 +53,10 @@ http://190.2.138.140/a/guest/live/523.ts?n=1&b=2
 
 #EXTINF:-1,[COLOR crimson]Macedonian Channels by PicassopaC[/COLOR]
 
-#EXTINF:0 tvg-logo="https://www.firstonetv.net/images/logos/mk/MRT1.png>",MRT 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/YLS0y1e.png>",MRT 1
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 
-#EXTINF:0 tvg-logo="http://1tv.mk/wp-content/uploads/2018/03/1tv-mk_white.png>",1TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/tmj5fDI.png>",1TV
 http://vod-c55.interspace.com:80/channel_abr/152327157439/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDk6NTI6MTcgUE0maGFzaF92YWx1ZT0xUnVkODNlUmFjazgvb1hXSmVFblp3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWFlNGVkMTFiNDkwZg==
 
 #EXTINF:0 tvg-logo="http://tvprofil.net/img/kanali-logo/kanal5-logo.png>",Kanal 5
