@@ -36,23 +36,9 @@ http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:0 tvg-logo="https://i.imgur.com/oMfm8fa.png>",Sport Klub 1
 http://190.2.138.140/a/guest/live/1639.ts?n=1&b=2
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/LUx21kO.png>",Sky Sport 1
-http://178.132.4.81/a/guest/live/126.ts?n=1
-#EXTINF:0 tvg-logo="https://i.imgur.com/t4NaQRj.png>",Sky Sport 2
-http://178.132.4.145/a/guest/live/550.ts?n=1
-#EXTINF:0 tvg-logo="https://i.imgur.com/gukEk1k.png>",Sky Sport 3
-http://185.2.83.104/a/guest/live/552.ts?n=1
 
-#EXTINF:-1,[COLOR lightseagreen]DE Sky Channels by PicassopaC[/COLOR]
+1#EXTINF:-1,[COLOR lightseagreen]DE Sky Channels by PicassopaC[/COLOR]
 skip
-#EXTINF:0 tvg-logo="https://i.imgur.com/9dmJWte.png>",Sky Cinema HD
-http://178.132.4.81/a/guest/live/100.ts?n=1&b=2
-
-#EXTINF:0 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HAL/UND_290x170.png>",Sky Universal Channel HD
-http://194.88.104.239/a/guest/live/564.ts?n=1&b=2
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/k1DW7Qv.png>",Sky Cinema Action HD
-http://190.2.138.140/a/guest/live/523.ts?n=1&b=2
 
 
 
@@ -78,9 +64,13 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
 
 
+#EXTINF:-1,[COLOR darkorange]Music Channels by PicassopaC[/COLOR]
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/9lThGqj.png>",[COLOR hotpink]Pink[/COLOR]Music
+http://93.87.85.70:80/PLTV/88888888/224/3221225875/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9TAYcInadu0GQ%2FE43BXwleI,,,END&GuardEncType=2
 
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/QAXCacA.png>",MTV Dance
+http://93.87.85.149:80/PLTV/88888888/224/3221226728/index.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqH4FbIMHT1QicKJah6bwCLc%3D%3A20180117221111%3AUTC,,,END&GuardEncType=2
 
 
 
