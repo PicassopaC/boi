@@ -20,6 +20,9 @@ http://54.36.104.112:25461/live/25ccAZD/hWgJFljKDQ/686.m3u8?token=QxsNWURdRAwWXg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6NLoCe.png>",FOX
 http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pK95dka.png>",FOX Life
+http://cdn.iptv.amis.net/LIVE/FoxLife/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/FYFR8bF.png>",National Geographic
 http://93.87.85.149:80/PLTV/88888888/224/3221226934/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9d8T5FsrMxo5EAE4HZ6hibw,,,END&GuardEncType=2
 
