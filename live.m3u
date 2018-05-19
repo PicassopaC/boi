@@ -3,10 +3,10 @@
 #EXTINF:-1,[COLOR cyan]Channels by PicassopaC [/COLOR]
 skip
 
-#EXTINF:1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/47/Pink_1_rs.png/revision/latest?cb=20150128095900>",[COLOR hotpink]Pink 1 [/COLOR]
+#EXTINF:1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/47/Pink_1_rs.png/revision/latest?cb=20150128095900>",[COLOR hotpink]Pink [/COLOR]
 http://93.87.85.69:80/PLTV/88888888/224/3221225872/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9YsCVWk35mSVP61H41NJx3g,,,END&GuardEncType=1
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/5mbaTW6.png>",[COLOR hotpink]Pink 2 [/COLOR]
+#EXTINF:1 tvg-logo="https://i.imgur.com/5mbaTW6.png>",[COLOR hotpink]Pink[/COLOR] 2
 http://93.87.85.72:80/PLTV/88888888/224/3221225882/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9eKoVnYGKbXJ%2B%2FJWt7xcnV8,,,END&GuardEncType=1
 #EXTINF:0 tvg-logo="https://i.imgur.com/Q752ZqX.png>",[COLOR hotpink]Pink[/COLOR] Reality
 http://178.132.4.145/a/guest/live/1029.ts?n=1&b=2
