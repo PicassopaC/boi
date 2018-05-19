@@ -17,6 +17,9 @@ http://93.87.85.71:80/PLTV/88888888/224/3221226821/index.m3u8?accountinfo=4WGMQd
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSQcbjy.png>",Nova
 http://54.36.104.112:25461/live/25ccAZD/hWgJFljKDQ/686.m3u8?token=QxsNWURdRAwWXgVSAgMCUAcFUVRRUQMPBVUHAlVUBlIKDlwID1BUUlBEGhFBRUYGVltqClRAXwANAE1EExZQQmdQARoNF1QEAl8UHxBFXQ5SFA9SBVBTAAMDWF5WSRdAUV1HAhUHUwEEUBQfEFRMF1JEWwJcPQFTQ18CA0RfW0VUVUkaWFs5UlELV11WEw5BBxQZQVkRFRQPFC8DEiZaXFdeC10XcgtUfEQaEVBYQBFWQlBBCkBSAAAUTUQFCkBeTEscGg0XInMWShRWSkVRDURfWg0SWEdCRhRNRA8WakJdShFKUlQLU0ZEDBECExhBWldNPFMNC1hQVRUPCQtGEgIbUQgVGURbWwhfR11DaxNeUhdZElNdDgECQxs=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6NLoCe.png>",FOX
+http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/FYFR8bF.png>",National Geographic
 http://93.87.85.149:80/PLTV/88888888/224/3221226934/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9d8T5FsrMxo5EAE4HZ6hibw,,,END&GuardEncType=2
 
@@ -38,7 +41,10 @@ http://93.87.85.10/PLTV/88888888/224/3221226929/index.m3u8?rrsip=93.87.85.10&amp
 #EXTINF:0 tvg-logo="https://i.imgur.com/74Vlk8N.png>",Cinemax HD
 http://tv.smartal.net:25461/live/25ccAZD/hWgJFljKDQ/7358.m3u8?
 
-#EXTINF:-1,[COLOR greenyellow]Sport Channels by PicassopaC [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQLWxbD.png>",TV 1000
+http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-1,[COLOR yellow]Sport Channels by PicassopaC [/COLOR]
 skip
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fIokKDo.png>",Arena 1 
@@ -93,6 +99,7 @@ http://93.87.85.69:80/PLTV/88888888/224/3221226895/index.m3u8?accountinfo=4WGMQd
 #EXTINF:0 tvg-logo="https://i.imgur.com/QAXCacA.png>",MTV Dance
 http://93.87.85.149:80/PLTV/88888888/224/3221226728/index.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqH4FbIMHT1QicKJah6bwCLc%3D%3A20180117221111%3AUTC,,,END&GuardEncType=2
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQf5lPP.png>",VH1
+http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
