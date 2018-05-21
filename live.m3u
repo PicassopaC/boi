@@ -18,10 +18,10 @@ http://93.87.85.71:80/PLTV/88888888/224/3221226821/index.m3u8?accountinfo=4WGMQd
 http://54.36.104.112:25461/live/25ccAZD/hWgJFljKDQ/686.m3u8?token=QxsNWURdRAwWXgVSAgMCUAcFUVRRUQMPBVUHAlVUBlIKDlwID1BUUlBEGhFBRUYGVltqClRAXwANAE1EExZQQmdQARoNF1QEAl8UHxBFXQ5SFA9SBVBTAAMDWF5WSRdAUV1HAhUHUwEEUBQfEFRMF1JEWwJcPQFTQ18CA0RfW0VUVUkaWFs5UlELV11WEw5BBxQZQVkRFRQPFC8DEiZaXFdeC10XcgtUfEQaEVBYQBFWQlBBCkBSAAAUTUQFCkBeTEscGg0XInMWShRWSkVRDURfWg0SWEdCRhRNRA8WakJdShFKUlQLU0ZEDBECExhBWldNPFMNC1hQVRUPCQtGEgIbUQgVGURbWwhfR11DaxNeUhdZElNdDgECQxs=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6NLoCe.png>",FOX
-http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2318.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK95dka.png>",FOX Life
-http://cdn.iptv.amis.net/LIVE/FoxLife/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2320.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FYFR8bF.png>",National Geographic
 http://93.87.85.149:80/PLTV/88888888/224/3221226934/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9d8T5FsrMxo5EAE4HZ6hibw,,,END&GuardEncType=2
