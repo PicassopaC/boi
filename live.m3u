@@ -41,8 +41,11 @@ http://93.87.85.10/PLTV/88888888/224/3221226928/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:0 tvg-logo="https://i.imgur.com/dxMfnLA.png>",HBO[COLOR wheat] 3[/COLOR]
 http://93.87.85.10/PLTV/88888888/224/3221226929/index.m3u8?rrsip=93.87.85.10&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgK%2FOsdKtI%2BMnnOsFROer%2BD4%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003195%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&amp;GuardEncType=2
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/74Vlk8N.png>",Cinemax HD
-http://tv.smartal.net:25461/live/25ccAZD/hWgJFljKDQ/7358.m3u8?
+#EXTINF:0 tvg-logo="https://i.imgur.com/74Vlk8N.png>",Cinemax
+http://93.87.85.10/PLTV/88888888/224/3221226930/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgIKtx%2FdIesoy0Myo%2FsLzc14%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001947%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wu3l26k.png>",Cinemax 2
+http://93.87.85.10/PLTV/88888888/224/3221226931/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgORbxRkTJ7JNbjt0Si3udFY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001948%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fQLWxbD.png>",TV 1000
 http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
