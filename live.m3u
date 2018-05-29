@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,[COLOR steelblue]Last Updated: 29.05.2018 [/COLOR]
+skip
 #EXTINF:-1,[COLOR cyan]Channels by PicassopaC [/COLOR]
 skip
 
@@ -65,6 +66,9 @@ http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zon
 http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:0 tvg-logo="https://i.imgur.com/oMfm8fa.png>",Sport Klub 1
 http://190.2.138.140/a/guest/live/1639.ts?n=1&b=2
+#EXTINF:0 tvg-logo="https://i.imgur.com/3xrDF8h.png>",Extreme Sports
+http://93.87.85.10/PLTV/88888888/224/3221226935/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgJ6mwht2Mtt2hTnDodbI97s%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001845%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
 2#EXTINF:-1 tvg-logo="https://cdn-005.mobile2morrow.com/wp-content/uploads/2017/03/fight-channel-hd.png?x60267>",Fight Channel
 http://83.139.104.105/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
 
@@ -80,7 +84,7 @@ skip
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/tmj5fDI.png>",1TV
-http://vod-c55.interspace.com:80/channel_abr/152327157439/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDk6NTI6MTcgUE0maGFzaF92YWx1ZT0xUnVkODNlUmFjazgvb1hXSmVFblp3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWFlNGVkMTFiNDkwZg==
+http://vod-c55.interspace.org:80/receiver/152327157439_p3/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/EKgx8AW.png>",Kanal 5
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
@@ -107,6 +111,6 @@ http://93.87.85.69:80/PLTV/88888888/224/3221226895/index.m3u8?accountinfo=4WGMQd
 http://93.87.85.149:80/PLTV/88888888/224/3221226728/index.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqH4FbIMHT1QicKJah6bwCLc%3D%3A20180117221111%3AUTC,,,END&GuardEncType=2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQf5lPP.png>",VH1
-http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+https://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
