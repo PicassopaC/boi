@@ -17,13 +17,13 @@ http://178.132.4.145/a/guest/live/1029.ts?n=1&b=2
 #EXTINF:0 tvg-logo="https://i.imgur.com/Eenkddt.png>",Prva
 http://93.87.85.71:80/PLTV/88888888/224/3221226821/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9VZg11nLkqj8utxBO6uJy6s,,,END&GuardEncType=2
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/dSQcbjy.png>",Nova
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSQcbjy.png>",Nova
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Nova ;url=http://54.36.104.112:25461/live/25ccAZD/hWgJFljKDQ/686.ts?token=QxsNWURdRAwWV1QLBwJRUwAHVwIBVFFXDABYBFcHVwcPWAcOVQEFBFBEGhFBRUYGVltqClRAXwANAE1EExZQQmdQARoNF1QEAl8UHxBFXQ5SFA9SBVBSAAQBU1ZTSRdAUV1HAhUEUAQHUhQfEFRMF1JEWwJcPQFTQ18CA0RfW0VUVUkaWFs5UlELV11WEw5BBxQZQVkRFRQPFC8DEiZaXFdeC10XcgtUfEQaEVBYQBFWQlBBCkBUBgYBQ0pEBlpFVk0XQRUPRHJxRBoRV0lABllFXAxeQF8UQUVDSkQMRm9KXBZMRVAHW1EUFAkQARZPFVtUG28BClhbUwISDwpbQxoDRwwHF0oUWQlYWkZeRjxHX1FBCkBRBQQBQxs=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6NLoCe.png>",FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=FOX ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2318.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2318.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK95dka.png>",FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=FOX Life ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2320.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2320.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FYFR8bF.png>",National Geographic
 http://93.87.85.149:80/PLTV/88888888/224/3221226934/index.m3u8?accountinfo=4WGMQdWUF9%2BqHZuCCLy8Q4FfiM8%2Fau50knlEUM8zRpJVc5s0Key4mMGgJ2QsHijxvQtZofjVgw4Bj5Sa3fOjGNb5W2uPz7JgORAhjXFNML6V2SIune2DVkr1AMPuZpNnxa%2Fm20L75pJy3RyiwjlO9d8T5FsrMxo5EAE4HZ6hibw,,,END&GuardEncType=2
