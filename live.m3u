@@ -20,7 +20,7 @@ http://93.87.85.71:80/PLTV/88888888/224/3221226821/index.m3u8?accountinfo=4WGMQd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dSQcbjy.png>",Nova
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Nova ;url=http://54.36.104.112:25461/live/25ccAZD/hWgJFljKDQ/686.ts?token=QxsNWURdRAwWV1QLBwJRUwAHVwIBVFFXDABYBFcHVwcPWAcOVQEFBFBEGhFBRUYGVltqClRAXwANAE1EExZQQmdQARoNF1QEAl8UHxBFXQ5SFA9SBVBSAAQBU1ZTSRdAUV1HAhUEUAQHUhQfEFRMF1JEWwJcPQFTQ18CA0RfW0VUVUkaWFs5UlELV11WEw5BBxQZQVkRFRQPFC8DEiZaXFdeC10XcgtUfEQaEVBYQBFWQlBBCkBUBgYBQ0pEBlpFVk0XQRUPRHJxRBoRV0lABllFXAxeQF8UQUVDSkQMRm9KXBZMRVAHW1EUFAkQARZPFVtUG28BClhbUwISDwpbQxoDRwwHF0oUWQlYWkZeRjxHX1FBCkBRBQQBQxs=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6NLoCe.png>",FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=FOX ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2318.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=FOX ;url=http://premium-iptv.link:6969/live/johnwoodland@sapo.pt/vVUYLx5x97/3519.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK95dka.png>",FOX Life
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=FOX Life ;url=http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2320.ts
