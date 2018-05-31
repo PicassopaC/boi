@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pn5JuM.jpg>",[COLOR darkmagenta]PicassopaC IPTV[/COLOR]
 skip
-#EXTINF:-1,[COLOR steelblue]Last Updated: 31.05.2018  [/COLOR][COLOR yellow]*NEW* NBA TV, Fight Channel, Extreme Sports[/COLOR]
+#EXTINF:-1,[COLOR steelblue]Last Updated: 31.05.2018  [/COLOR][COLOR yellow]*NEW* Fine Living, Fight Channel, NBA TV, Extreme Sports[/COLOR]
 skip
 #EXTINF:-1,[COLOR cyan]Channels by PicassopaC [/COLOR]
 skip
@@ -30,6 +30,9 @@ http://93.87.85.149:80/PLTV/88888888/224/3221226934/index.m3u8?accountinfo=4WGMQ
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gJVBWJc.png>",TLC
 http://194.54.183.122:8000/play/a01j
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/x87zBjN.png>",Fine Living
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/942/index.m3u8
 
 #EXTINF:-1,[COLOR lawngreen]Movie Channels by PicassopaC [/COLOR]
 skip
