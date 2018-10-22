@@ -101,7 +101,7 @@ skip
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/tmj5fDI.png>",1TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=1TV ;url=http://vod-c55.interspace.com:80/channel_abr/152327157439/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOCAyOjMzOjM2IFBNJmhhc2hfdmFsdWU9UjhpQW5xLy84SkpTb3JWRzZtRU5Ddz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTViY2RkZmMwZTYyNWY=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=1TV ;url=http://vod-c55.interspace.com:80/channel_abr/152327157439/receiver/152327157439_p4/l_4_195373177_32470.ts?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOCAyOjI4OjQyIFBNJmhhc2hfdmFsdWU9aFZIY3Z3V1N1U3pkbWk2SW9hVFZndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTViY2RkZTlhZThmZTU=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/EKgx8AW.png>",Kanal 5
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
