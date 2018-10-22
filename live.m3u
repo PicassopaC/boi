@@ -107,7 +107,7 @@ http://vod-c55.interspace.org:80/receiver/152327157439_p3/playlist.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QUSljlB.png>",Sitel
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+http://51.254.42.221:8081/sitel/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/yJ3F2jg.png>",Alfa
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
